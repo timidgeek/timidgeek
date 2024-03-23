@@ -5,11 +5,7 @@
 
 <!-- about me -->
 
-<p align="center">
-
-I'm Lindsey :sparkles:
-  
-</p>
+<h1 align="center">I'm Lindsey :sparkles:</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Full%20Stack%20Web%20Developer%20from%20Tulsa,%20Oklahoma&descAlign=50&descAlignY=86&desc=%20Deeply%20creative%20and%20passionate%20about%20delivering%20exceptional%20work.&textBg=false&fontColor=FF7F50&fontAlign=50&section=footer&fontSize=30"/>
