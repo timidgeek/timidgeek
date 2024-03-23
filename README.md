@@ -62,7 +62,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timidgeek&layout=compact&title_color=e0dedf&text_color=e0dedf&icon_color=007bff&bg_color=00000000&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timidgeek&layout=compact&title_color=e0dedf&text_color=e0dedf&icon_color=007bff&bg_color=00000000&hide_border=true)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=timidgeek&show_icons=true&icon_color=CE1D2D&text_color=e0dedf&bg_color=00000000&hide_title=true&hide_border=true" />
 
-
+-->
