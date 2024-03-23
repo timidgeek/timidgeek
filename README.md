@@ -17,9 +17,9 @@
 </p>
 
 <!-- links -->
-
+<h3 align="center">Connect with me!</h1>
 <a align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=gradient&descAlign=50&descAlignY=86&desc=Connect%20with%20me!&textBg=false&fontColor=FF7F50&fontAlign=50&section=footer&fontSize=30&reversal=false"/>
+  <!--<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=gradient&descAlign=50&descAlignY=86&desc=Connect%20with%20me!&textBg=false&fontColor=FF7F50&fontAlign=50&section=footer&fontSize=30&reversal=false"/>-->
 </a>
 
 <p align="center" style="display: flex;">
@@ -39,13 +39,14 @@
 </p>
 
 
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
 
 
 
 
 
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timidgeek&layout=compact&title_color=e0dedf&text_color=e0dedf&icon_color=007bff&bg_color=00000000&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timidgeek&layout=compact&title_color=e0dedf&text_color=e0dedf&icon_color=007bff&bg_color=00000000&hide_border=true)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=timidgeek&show_icons=true&icon_color=CE1D2D&text_color=e0dedf&bg_color=00000000&hide_title=true&hide_border=true" />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&descAlign=50&descAlignY=50&animation=fadeIn&fontColor=e0dedf&reversal=false&textBg=false&fontAlign=50&section=footer) -->
+
