@@ -24,11 +24,11 @@
 
 <p align="center" style="display: flex;">
   <!-- email -->
-  <a href="mailto:timidgeek@yahoo.com"><img src="https://github.com/timidgeek/timidgeek/assets/109702893/e44dc18e-c4fc-4424-bba1-1c7a936173c9" alt="Email" style="width: 64px; height: 64px;"></a>
+  <a href="mailto:timidgeek@yahoo.com" target="_blank"><img src="https://github.com/timidgeek/timidgeek/assets/109702893/e44dc18e-c4fc-4424-bba1-1c7a936173c9" alt="Email" style="width: 64px; height: 64px;"></a>
   <!-- instagram -->
-  <a href="https://www.instagram.com/timidgeek/"><img src="https://github.com/timidgeek/timidgeek/assets/109702893/7029d951-d122-49b7-9b61-8902dd899536" alt="Instagram" style="width: 64px; height: 64px;"></a>
+  <a href="https://www.instagram.com/timidgeek/" target="_blank"><img src="https://github.com/timidgeek/timidgeek/assets/109702893/7029d951-d122-49b7-9b61-8902dd899536" alt="Instagram" style="width: 64px; height: 64px;"></a>
   <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/timidgeek/"><img src="https://github.com/timidgeek/timidgeek/assets/109702893/953eea15-2c02-44dd-97f4-152434470597" alt="LinkedIn" style="width: 64px; height: 64px;"></a>
+  <a href="https://www.linkedin.com/in/timidgeek/" target="_blank"><img src="https://github.com/timidgeek/timidgeek/assets/109702893/953eea15-2c02-44dd-97f4-152434470597" alt="LinkedIn" style="width: 64px; height: 64px;"></a>
 </p>
 
 <!-- website & footer -->
