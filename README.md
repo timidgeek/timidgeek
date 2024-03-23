@@ -2,7 +2,6 @@
 
 **timidgeek/timidgeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-TODOIST_API_KEY = d7eea58cceb6bdadaa6a570114996e500a4e74fa
 
 Here are some ideas to get you started:
 
@@ -15,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a fiber artist who makes clothes from scratch!
 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello,%20World!&descAlign=38&descAlignY=68&textBg=false&fontColor=FFE5B4&fontAlign=50" alt="mystreak"/>
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello&descAlign=50&descAlignY=62&animation=fadeIn&fontColor=e0dedf&reversal=false&textBg=false&fontAlign=50&desc=welcome%20to%20my%20github)
-
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+### I'm Lindsey :sparkles:
+Full Stack Web Developer from Tulsa, Oklahoma. Deeply creative and passionate about delivering exceptional work.
+You can find my personal website [here](https://timidgeek.com)!
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timidgeek&theme=tokyonight" alt="mystreak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timidgeek&theme=ayu-light" alt="mystreak"/>
 </p>
 
 
