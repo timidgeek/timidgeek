@@ -11,11 +11,12 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Full%20Stack%20Web%20Developer%20from%20Tulsa,%20Oklahoma&descAlign=50&descAlignY=86&desc=%20Deeply%20creative%20and%20passionate%20about%20delivering%20exceptional%20work.&textBg=false&fontColor=FF7F50&fontAlign=50&section=footer&fontSize=30"/>
 </p>
 
-<!-- stats -->
+<!-- stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=timidgeek&theme=ayu-light" alt="mystreak"/>
 </p>
-
+ -->
+ 
 <!-- links -->
 <h3 align="center">Connect with me!</h1>
 <a align="center">
